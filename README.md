@@ -51,8 +51,8 @@ Python 3.x (no external libraries needed!)
 
 ✨ Installation
 Clone the repository:
-git clone https://github.com/your-username/TicTacToe-AI-Minimax-AlphaBeta.git
-cd TicTacToe-AI-Minimax-AlphaBeta
+git clone https://github.com/taqihaider110/Tic-Tac-Toe---Min-Max.git
+cd Tic-Tac-Toe---Min-Max
 
 Run the game:
 python main.py
