@@ -1,5 +1,5 @@
 🧠 Tic-Tac-Toe AI — Minimax with Alpha-Beta Pruning
-A classic Tic-Tac-Toe game built in Python, featuring an unbeatable AI using the Minimax Algorithm with Alpha-Beta Pruning optimization for maximum efficiency!
+A classic Tic-Tac-Toe game built in Python, featuring an unbeatable AI using the Minimax Algorithm with Alpha-Beta Pruning for maximum efficiency!
 Challenge the AI and see if you can even force a draw! 🎯
 
 
